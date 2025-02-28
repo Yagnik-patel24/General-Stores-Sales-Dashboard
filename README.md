@@ -1,14 +1,15 @@
 # General-Stores-Sales-Dashboard
 
 General Stores Sales Analysis Report
-1. Overview
+1. Overview:
 The sales dashboard provides insights into store performance across different categories, sales channels, demographics, and geographic regions. The data visualizations help in identifying key trends and making strategic decisions.
 
-2. Key Findings
+2. Key Findings:
 2.1 Sales Performance (Order vs Sales)
 Sales peaked around March to May, with a decline in later months.
 Highest sales volume occurred in March, followed by fluctuations in subsequent months.
 The average monthly sales revenue ranges between ₹1.4M to ₹2.0M.
+
 2.2 Customer Demographics
 Gender Breakdown:
 Women account for 64% of total sales, while men contribute 36%.
@@ -18,6 +19,7 @@ Adults (25-45 years) are the primary buyers (34.57% Women, 15.52% Men).
 Seniors contribute a moderate share (22.19% Women, 9.60% Men).
 Teenagers make up the lowest share (12.63% Women, 5.49% Men).
 This suggests that marketing efforts should target adults and senior customers.
+
 2.3 Sales by Region (Top 5 States)
 Maharashtra (₹2.99M) leads in sales, followed by:
 Karnataka (₹2.65M)
@@ -25,10 +27,12 @@ Uttar Pradesh (₹1.68M)
 Telangana (₹1.71M)
 Tamil Nadu (₹1.68M)
 This information can guide location-specific marketing and inventory allocation.
+
 2.4 Order Status
 93% of orders were successfully delivered, indicating an efficient supply chain.
 2% of orders were canceled, 4% returned, and 1% refunded.
 Strategies to further reduce returns and cancellations could include better quality checks and improved customer service.
+
 2.5 Sales Channels
 Amazon (35.51%) is the leading sales channel, followed by:
 Flipkart (21.86%)
